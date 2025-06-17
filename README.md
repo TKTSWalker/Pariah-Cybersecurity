@@ -48,6 +48,8 @@
 
 </pre>
 
+# THIS IS OUTDATED!!!! 
+[Please check out the new and improved Pariah Cybersecurity here!](https://github.com/Walker-Industries-RnD/PariahCybersecurity)
 
 
 ## Easy, Open Sourced and AES256 and Scrypt Based Cybersecurity

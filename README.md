@@ -58,6 +58,11 @@
 
 
 
+[![Clause1](https://github.com/Walker-Industries-RnD/Malicious-Affiliation-Ban/blob/main/WIBan.png?raw=true)](https://github.com/Walker-Industries-RnD/Malicious-Affiliation-Ban/blob/main/README.md)
+
+
+
+
      
 ## Pariah Is Composed Of
 

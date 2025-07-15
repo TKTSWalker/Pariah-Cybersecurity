@@ -52,6 +52,11 @@
 [Please check out the new and improved Pariah Cybersecurity here!](https://github.com/Walker-Industries-RnD/PariahCybersecurity)
 
 
+[![Clause1](https://github.com/Walker-Industries-RnD/Malicious-Affiliation-Ban/blob/main/WIBan.png?raw=true)](https://github.com/Walker-Industries-RnD/Malicious-Affiliation-Ban/blob/main/README.md)
+
+
+
+
 ## Easy, Open Sourced and AES256 and Scrypt Based Cybersecurity
 
 #### Pariah Cybersecurity is a C# Cybersecurity system. Primarily made for the XRUIOS (Coming soon) and Unity. It should be able to work with non Unity projects with a few changes to the code.
